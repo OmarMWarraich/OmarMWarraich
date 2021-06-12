@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=OmarMWarraich)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarMWarraich&repo=OmarMWarraich)
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarMWarraich&repo=OmarMWarraich) -->
+<!--   <img align="right" alt="Coding" width="400" src="add your link 
+  here"> -->
+  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmarMWarraich)](https://git.io/streak-stats)
