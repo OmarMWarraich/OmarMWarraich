@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I am Omar Mohammad Warraich
+
+![GitHub followers](https://img.shields.io/github/followers/OmarMWarraich?style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/OmarMWarraich?style=social)
+
+- Full-Stack software developer
+- Ethereum Developer
+- Blockchain Solution Architect
+
+![Twitter Follow](https://img.shields.io/twitter/follow/omarWarraich1?style=social)
+
+
+
+
+
+
+                                                                   
+
 
 <!--
 **OmarMWarraich/OmarMWarraich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
