@@ -10,6 +10,16 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/omarWarraich1?style=social)
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMWarraich&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarMWarraich&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
