@@ -7,6 +7,14 @@
 - Full-Stack software developer
 - Ethereum Developer
 - Blockchain Solution Architect
+- React-Redux
+- JavaScript-Html-Css
+- TypeScript
+- Rust
+- Python
+- Solidity
+- Hardhat
+- Truffle
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/omarWarraich1?style=social)
 
@@ -19,6 +27,8 @@
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarMWarraich&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Image](./assets/contributions.png)
+
+![Profile views](https://gpvc.arturio.dev/OmarMWarraich)
 
 
 
