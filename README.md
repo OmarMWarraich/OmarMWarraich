@@ -26,7 +26,7 @@
 <table align = "center" width="100%" height="100%" style="position:absolute;">
   <tr>
     <th>
-      Language
+      Languages
     </th>
     <th>
       Frameworks
@@ -92,10 +92,10 @@
       Solidity
     </td>
     <td>
-      Truffle
+      tailwindcss
     </td>
     <td>
-      alchemy
+      truffle
     </td>
   </tr>
   
