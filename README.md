@@ -1,29 +1,29 @@
 ### Hi there 👋, I am Omar Mohammad Warraich
 
-<p align="center">
-  <h1 align="center">Full Stack Software Developer</h1>
-  <h2 align="center">Ethereum Developer</h2>
-  <h2 align="center">Blockchain Solution Architect</h2>
-</p>
-<p align="center">
-  <a href="https://github.com/OmarMWarraich?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarMWarraich?style=social" />
-  </a>
-  <a href="https://github.com/OmarMWarraich?tab=stars">
-    <img alt="GitHub followers" src="https://img.shields.io/github/stars/OmarMWarraich?style=social" />
-  </a>
-  <a href="https://twitter.com/follow/omarWarraich1">
-    <img alt="GitHub followers" src="https://img.shields.io/twitter/follow/omarWarraich1?style=social" />
-  </a>
-  <a href="https://twitter.com/follow/omarWarraich1">
-    <img alt="GitHub followers" src="https://gpvc.arturio.dev/OmarMWarraich?style=social" />
-  </a>
-  <br />
-</p>
----
 
+<p align="center">
+        <h1 align="center">Full Stack Software Developer</h1>
+        <h2 align="center">Ethereum Developer</h2>
+        <h2 align="center">Blockchain Solution Architect</h2>
+      </p>
+      <p align="center">
+        <a href="https://github.com/OmarMWarraich?tab=followers">
+          <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarMWarraich?style=social" />
+        </a>
+        <a href="https://github.com/OmarMWarraich?tab=stars">
+          <img alt="GitHub followers" src="https://img.shields.io/github/stars/OmarMWarraich?style=social" />
+        </a>
+        <a href="https://twitter.com/follow/omarWarraich1">
+          <img alt="GitHub followers" src="https://img.shields.io/twitter/follow/omarWarraich1?style=social" />
+        </a>
+        <a href="https://twitter.com/follow/omarWarraich1">
+          <img alt="GitHub followers" src="https://gpvc.arturio.dev/OmarMWarraich?style=social" />
+        </a>
+        <br />
+      </p>
 
-<table align = "center">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">    
+<table align = "center" width="100%" height="100%" style="position:absolute;">
   <tr>
     <th>
       Language
@@ -100,6 +100,8 @@
   </tr>
   
  </table>
+<div>
+  
 
 ## &#x1f4c8; My GitHub Stats
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://github-readme-stats.vercel.app/api?username=OmarMWarraich&theme=tokyonight" width="100%" height="100%" style="position:absolute"></img>
@@ -114,11 +116,6 @@
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="./assets/canvas.png" width="100%" height="100%" style="position:absolute"></img>
 </div>
-
-
-
-</div>
-
 
 
 
