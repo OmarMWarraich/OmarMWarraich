@@ -4,9 +4,6 @@
 </p>
   <p align="center">
     <a href="https://github.com/OmarMWarraich/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/OmarMWarraich/github-readme-stats" />
-    </a>
-    <a href="https://github.com/OmarMWarraich/github-readme-stats/graphs/contributors">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarMWarraich?style=social" />
     </a>
     <a href="https://github.com/OmarMWarraich/github-readme-stats/graphs/contributors">
