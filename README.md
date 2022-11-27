@@ -1,8 +1,30 @@
 ### Hi there 👋, I am Omar Mohammad Warraich
 
-![GitHub followers](https://img.shields.io/github/followers/OmarMWarraich?style=social)
-
-![GitHub User's stars](https://img.shields.io/github/stars/OmarMWarraich?style=social)
+<p align="center">
+</p>
+  <p align="center">
+    <a href="https://github.com/OmarMWarraich/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/OmarMWarraich/github-readme-stats" />
+    </a>
+    <a href="https://github.com/OmarMWarraich/github-readme-stats/graphs/contributors">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarMWarraich?style=social" />
+    </a>
+    <a href="https://github.com/OmarMWarraich/github-readme-stats/graphs/contributors">
+      <img alt="GitHub followers" src="https://img.shields.io/github/stars/OmarMWarraich?style=social" />
+    </a>
+    <a href="https://github.com/OmarMWarraich/github-readme-stats/graphs/contributors">
+      <img alt="GitHub followers" src="https://img.shields.io/twitter/follow/omarWarraich1?style=social" />
+    </a>
+    <br />
+    <br />
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    </a>
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
+      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    </a>
+  </p>
+</p>
 
 - Full-Stack software developer
 - Ethereum Developer
@@ -15,8 +37,6 @@
 - Solidity
 - Hardhat
 - Truffle
-
-![Twitter Follow](https://img.shields.io/twitter/follow/omarWarraich1?style=social)
 
 ---
 
@@ -31,7 +51,6 @@
 ![Profile views](https://gpvc.arturio.dev/OmarMWarraich)
 
 ![Image](./assets/canvas.png)
-
 
 
 
