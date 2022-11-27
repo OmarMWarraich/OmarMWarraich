@@ -3,13 +3,13 @@
 <p align="center">
 </p>
   <p align="center">
-    <a href="https://github.com/OmarMWarraich/github-readme-stats/graphs/contributors">
+    <a href="https://github.com/OmarMWarraich?tab=followers">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarMWarraich?style=social" />
     </a>
-    <a href="https://github.com/OmarMWarraich/github-readme-stats/graphs/contributors">
+    <a href="https://github.com/OmarMWarraich?tab=stars">
       <img alt="GitHub followers" src="https://img.shields.io/github/stars/OmarMWarraich?style=social" />
     </a>
-    <a href="https://github.com/OmarMWarraich/github-readme-stats/graphs/contributors">
+    <a href="https://twitter.com/follow/omarWarraich1">
       <img alt="GitHub followers" src="https://img.shields.io/twitter/follow/omarWarraich1?style=social" />
     </a>
     <br />
