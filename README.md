@@ -5,6 +5,7 @@
         <h1 align="center">Full Stack Software Developer</h1>
         <h2 align="center">Ethereum Developer</h2>
         <h2 align="center">Blockchain Solution Architect</h2>
+        <h2 align="center">Microverse alumni</h2>
       </p>
       <p align="center">
         <a href="https://github.com/OmarMWarraich?tab=followers">
@@ -92,10 +93,23 @@
       Solidity
     </td>
     <td>
+      truffle
+    </td>
+    <td>
+      Pair Programming
+    </td>
+  </tr>
+        
+  
+  <tr>
+    <td>
+      JavaScript
+    </td>
+    <td>
       tailwindcss
     </td>
     <td>
-      truffle
+      Kanban Boards
     </td>
   </tr>
   
