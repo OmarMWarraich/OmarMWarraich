@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Omar Mohammad Warraich
 
-
 <p align="center">
         <h1 align="center">Full Stack Software Developer</h1>
         <h2 align="center">Ethereum Developer</h2>
@@ -24,7 +23,7 @@
       </p>
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;">    
-<table align = "center" width="100%" height="100%" style="position:absolute;">
+<table align = "center" style="position:absolute;width:100%;height:100%;">
   <tr>
     <th>
       Languages
