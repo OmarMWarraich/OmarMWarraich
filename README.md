@@ -16,9 +16,9 @@
         <a href="https://twitter.com/follow/omarWarraich1">
           <img alt="GitHub followers" src="https://img.shields.io/twitter/follow/omarWarraich1?style=social" />
         </a>
-<!--         <a href="https://twitter.com/follow/omarWarraich1">
+        <a href="https://twitter.com/follow/omarWarraich1">
           <img alt="GitHub followers" src="https://gpvc.arturio.dev/OmarMWarraich?style=social" />
-        </a> -->
+        </a>
         <br />
       </p>
 
