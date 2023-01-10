@@ -4,7 +4,7 @@
         <h1 align="center">Full Stack Software Developer</h1>
         <h2 align="center">Ethereum Developer</h2>
         <h2 align="center">Blockchain Solution Architect</h2>
-        <h2> align="center">PIAIC, Pakistan alum</h2>
+        <h2 align="center">PIAIC Pakistan alum</h2>
         <h2 align="center">Microverse alum</h2>
       </p>
       <p align="center">
