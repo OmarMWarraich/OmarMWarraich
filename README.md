@@ -11,7 +11,7 @@
           <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarMWarraich?style=social" />
         </a>
         <a href="https://github.com/OmarMWarraich?tab=stars">
-          <img alt="GitHub followers" src="https://img.shields.io/github/stars/OmarMWarraich?style=social" />
+          <img alt="GitHub Stars" src="https://img.shields.io/github/stars/OmarMWarraich?style=social" />
         </a>
         <a href="https://twitter.com/follow/omarWarraich1">
           <img alt="GitHub followers" src="https://img.shields.io/twitter/follow/omarWarraich1?style=social" />
