@@ -34,117 +34,117 @@
     </th>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       TypeScript
     </td>
-    <td>
+    <td align="center">
       Bootstrap
     </td>
-    <td>
+    <td align="center">
       Git
     </td>
   </tr>
   
   
   <tr>
-    <td>
+    <td align="center">
       React-Redux
     </td>
-    <td>
+    <td align="center">
       Ruby on Rails
     </td>
-    <td>
+    <td align="center">
       GIthub
     </td>
   </tr>
   
   
   <tr>
-    <td>
+    <td align="center">
       Python
     </td>
-    <td>
+    <td align="center">
       Flask
     </td>
-    <td>
-      Terminal
+    <td align="center">
+      Rspec, Capybara
     </td>
   </tr>
   
   
   <tr>
-    <td>
+    <td align="center">
       Rust
     </td>
-    <td>
+    <td align="center">
       Rocket
     </td>
-    <td>
-      Figma
+    <td align="center">
+      Figma, XD, Dribble
     </td>
   </tr>
   
   
   <tr>
-    <td>
+    <td align="center">
       Solidity
     </td>
-    <td>
+    <td align="center">
       truffle
     </td>
-    <td>
+    <td align="center">
       Pair Programming
     </td>
   </tr>
         
   
   <tr>
-    <td>
+    <td align="center">
       JavaScript
     </td>
-    <td>
+    <td align="center">
       tailwindcss
     </td>
-    <td>
+    <td align="center">
       Kanban Boards
     </td>
   </tr>
   
   
   <tr>
-    <td>
+    <td align="center">
       C++
     </td>
-    <td>
+    <td align="center">
       Blender
     </td>
-    <td>
+    <td align="center">
       Aws
     </td>
   </tr>
   
   
   <tr>
-    <td>
+    <td align="center">
       C#
     </td>
-    <td>
+    <td align="center">
       Unity
     </td>
-    <td>
+    <td align="center">
       Digital Ocean
     </td>
   </tr>
   
   
   <tr>
-    <td>
-      Linux
+    <td align="center">
+      Linux CLI
     </td>
-    <td>
+    <td align="center">
       Three Fiber
     </td>
-    <td>
+    <td align="center">
       Fly.io
     </td>
   </tr>
