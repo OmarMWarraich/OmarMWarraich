@@ -14,7 +14,7 @@
         <a href="https://github.com/OmarMWarraich?tab=stars">
           <img alt="GitHub Stars" src="https://img.shields.io/github/stars/OmarMWarraich?style=social" />
         </a>
-        <a href="https://twitter.com/follow/omarwarraich1">
+        <a href="https://twitter.com/omarwarraich1">
           <img alt="GitHub followers" src="https://img.shields.io/twitter/follow/omarwarraich1?style=social" />
         </a>
         <a href="https://wellfound.com/u/omar-warraich">
