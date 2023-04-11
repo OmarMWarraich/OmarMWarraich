@@ -17,6 +17,12 @@
         <a href="https://twitter.com/follow/omarwarraich1">
           <img alt="GitHub followers" src="https://img.shields.io/twitter/follow/omarwarraich1?style=social" />
         </a>
+        <a href="https://wellfound.com/u/omar-warraich">
+        <img alt="Angellist followers" src="https://img.shields.io/badge/Angellist-follow-blue?style=social&logo=angellist" />
+      </a>
+        <a href="https://www.linkedin.com/in/o-va">
+        <img alt="LinkedIn followers" src="https://img.shields.io/badge/LinkedIn-follow-blue?style=social&logo=linkedin" />     
+      </a>
         <br />
       </p>
 
