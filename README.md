@@ -41,7 +41,7 @@
       Bootstrap
     </td>
     <td align="center">
-      Git
+      Github
     </td>
   </tr>
   
@@ -54,7 +54,7 @@
       Ruby on Rails
     </td>
     <td align="center">
-      GIthub
+      Selenium
     </td>
   </tr>
   
@@ -77,7 +77,7 @@
       Rust
     </td>
     <td align="center">
-      Rocket
+      Mocha, Jest, Chai
     </td>
     <td align="center">
       Figma, XD, Dribble
