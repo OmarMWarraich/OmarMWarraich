@@ -5,7 +5,7 @@
         <h2 align="center">Ethereum Developer</h2>
         <h2 align="center">Blockchain Solution Architect</h2>
         <h2 align="center">PIAIC Pakistan alum</h2>
-        <h2 align="center">Micronaut</h2>
+        <h1 align="center">Micronaut</h1>
       </p>
       <p align="center">
         <a href="https://github.com/OmarMWarraich?tab=followers">
