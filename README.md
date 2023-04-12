@@ -21,7 +21,7 @@
         <img alt="Angellist followers" src="https://img.shields.io/badge/Angellist-blue?style=social&logo=angellist" />
       </a>
         <a href="https://www.linkedin.com/in/o-va">
-        <img alt="LinkedIn followers" src="https://img.shields.io/badge/LinkedIn-follow-blue?style=social&logo=linkedin" />     
+        <img alt="LinkedIn followers" src="https://img.shields.io/badge/LinkedIn-connect-blue?style=social&logo=linkedin" />     
       </a>
         <br />
       </p>
