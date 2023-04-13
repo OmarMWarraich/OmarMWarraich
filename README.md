@@ -1,160 +1,179 @@
 ### Hi there 👋, I am Omar Mohammad Warraich
 
 <p align="center">
-        <h1 align="center">Full Stack Software Developer</h1>
-        <h2 align="center">Ethereum Developer</h2>
-        <h2 align="center">Blockchain Solution Architect</h2>
-        <h2 align="center">PIAIC Pakistan alum</h2>
-        <h1 align="center">Micronaut</h1>
-      </p>
+        <img alt="Full Stack Software Developer" src="https://img.shields.io/badge/Full Stack Software Developer-yellowgreen?style=flat-square" height="100" width="100%"/>
+        <img alt="Blockchain Developer" src="https://img.shields.io/badge/Blockchain Developer-red?style=flat-square" height="70" width="100%"/>
+        <img alt="Artificial Intelligence Developer" src="https://img.shields.io/badge/Artificial Intelligence Developer-lightgrey?style=flat-square" height="70" width="100%"/>
+        <img alt="Internet of Things Developer" src="https://img.shields.io/badge/Internet of Things Developer-yellow?style=flat-square" height="70" width="100%"/>
+        <img alt="Cloud Native Developer" src="https://img.shields.io/badge/Cloud Native Developer-blue?style=flat-square" height="70" width="100%"/>
+        <img alt="PIAIC" src="https://img.shields.io/badge/Presidential Initiative of Artificial Intelligence and Computing, Pakistan-green?style=flat-square" height="100" width="100%"/>
+        <img alt="Mironaut" src="https://img.shields.io/badge/Micronaut-purple?style=flat-square" height="100" width="100%"/>
+        <img alt="Hire" src="https://img.shields.io/badge/Available For Hire-black?style=flat-square" height="100" width="100%"/>
+</p>        
       <p align="center">
-        <a href="https://github.com/OmarMWarraich?tab=followers">
-          <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarMWarraich?style=social" />
-        </a>
         <a href="https://github.com/OmarMWarraich?tab=stars">
-          <img alt="GitHub Stars" src="https://img.shields.io/github/stars/OmarMWarraich?style=social" />
+          <img alt="GitHub Stars" src="https://img.shields.io/github/stars/OmarMWarraich?logo=github" />
+        </a>
+        <a href="https://o-v-a-portfolio.netlify.app">
+          <img alt="Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-green" />
         </a>
         <a href="https://twitter.com/omarwarraich1">
-          <img alt="GitHub followers" src="https://img.shields.io/twitter/follow/omarwarraich1?style=social" />
+          <img alt="GitHub followers" src="https://img.shields.io/badge/Twitter-blue?logo=twitter" />
         </a>
         <a href="https://wellfound.com/u/omar-warraich">
-        <img alt="Angellist followers" src="https://img.shields.io/badge/Angellist-blue?style=social&logo=angellist" />
+        <img alt="Angellist followers" src="https://img.shields.io/badge/Wellfound-red?logo=angellist" />
       </a>
         <a href="https://www.linkedin.com/in/o-va">
-        <img alt="LinkedIn followers" src="https://img.shields.io/badge/LinkedIn-connect-blue?style=social&logo=linkedin" />     
+        <img alt="LinkedIn followers" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />     
       </a>
+        <a href="https://github.com/OmarMWarraich?tab=followers">
+          <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarMWarraich?logo=github" />
+        </a>
         <br />
       </p>
+
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;">    
 <table align = "center" style="position:absolute;width:100%;height:100%;">
   <tr>
     <th>
-      Languages
+      <img alt="Languages" src="https://img.shields.io/badge/Languages-yellow" />
     </th>
     <th>
-      Frameworks
+      <img alt="Frameworks" src="https://img.shields.io/badge/Frameworks-yellow" />
     </th>
     <th>
-      Skills
+      <img alt="Skills" src="https://img.shields.io/badge/Skills-yellow" />
     </th>
   </tr>
   <tr>
     <td align="center">
-      TypeScript
+      <img alt="Typesctipt" src="https://img.shields.io/badge/Typescript-purple?logo=typescript" />
     </td>
     <td align="center">
-      Bootstrap
+      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap" />
     </td>
     <td align="center">
-      Github
-    </td>
-  </tr>
-  
-  
-  <tr>
-    <td align="center">
-      React-Redux
-    </td>
-    <td align="center">
-      Ruby on Rails
-    </td>
-    <td align="center">
-      Selenium
+      <img alt="Github" src="https://img.shields.io/badge/Github-purple?logo=github" />
     </td>
   </tr>
   
   
   <tr>
     <td align="center">
-      Python
+      <img alt="React-Redux" src="https://img.shields.io/badge/React Redux-orange?logo=react" />
     </td>
     <td align="center">
-      Flask
+      <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby on Rails-orange?logo=ruby" />
     </td>
     <td align="center">
-      Rspec, Capybara
+      <img alt="Selenium" src="https://img.shields.io/badge/Selenium-orange?logo=selenium" />
+    </td>
+  </tr>
+  
+  
+  <tr> 
+    <td align="center">
+      <img alt="Python" src="https://img.shields.io/badge/Python-green?logo=python" />
+    </td>
+    <td align="center">
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-green?logo=python" />
+    </td>
+    <td align="center">
+      <img alt="Rspec Capybara" src="https://img.shields.io/badge/Rspec, Capybara-green?logo=capybara" />
+    </td>
+  </tr>
+  
+  
+  <tr>
+  <td align="center">
+      <img alt="Rust" src="https://img.shields.io/badge/Rust-blue" />
+    </td>
+    <td align="center">
+      <img alt="Mocha, Jest, Chai" src="https://img.shields.io/badge/Mocha, Jest, Chai-blue?logo=jest" />
+    </td>
+    <td align="center">
+      <img alt="Figma, XD, Dribble" src="https://img.shields.io/badge/Figma, XD, Dribble-blue?logo=figma" />
     </td>
   </tr>
   
   
   <tr>
     <td align="center">
-      Rust
+      <img alt="Solidity" src="https://img.shields.io/badge/Solidity-pink?logo=solidity" />
     </td>
     <td align="center">
-      Mocha, Jest, Chai
+      <img alt="Truffle" src="https://img.shields.io/badge/Truffle-pink?logo=truffle" />
     </td>
     <td align="center">
-      Figma, XD, Dribble
-    </td>
-  </tr>
-  
-  
-  <tr>
-    <td align="center">
-      Solidity
-    </td>
-    <td align="center">
-      truffle
-    </td>
-    <td align="center">
-      Pair Programming
+      <img alt="Pair Programming" src="https://img.shields.io/badge/Pair Programming-pink?logo=programming" />
     </td>
   </tr>
         
   
   <tr>
-    <td align="center">
-      JavaScript
+   <td align="center">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-bluevilot?logo=javascript" />
     </td>
     <td align="center">
-      tailwindcss
+      <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-bluevilot?logo=tailwindcss" />
     </td>
     <td align="center">
-      Kanban Boards
-    </td>
-  </tr>
-  
-  
-  <tr>
-    <td align="center">
-      C++
-    </td>
-    <td align="center">
-      Blender
-    </td>
-    <td align="center">
-      Aws
+      <img alt="Kanban Boards" src="https://img.shields.io/badge/Kanban Boards-bluevilot?logo=table" />
     </td>
   </tr>
   
   
   <tr>
     <td align="center">
-      C#
+      <img alt="C++" src="https://img.shields.io/badge/C++-ff69b4?logo=c" />
     </td>
     <td align="center">
-      Unity
+      <img alt="Unity" src="https://img.shields.io/badge/Unity-ff69b4?logo=unity" />
     </td>
     <td align="center">
-      Digital Ocean
+      <img alt="Azure" src="https://img.shields.io/badge/Azure-ff69b4?logo=microsoft" />
     </td>
   </tr>
   
   
   <tr>
     <td align="center">
-      Linux CLI
+      <img alt="C#" src="https://img.shields.io/badge/C-lightgrey" />
     </td>
     <td align="center">
-      Three Fiber
+      <img alt="Blender" src="https://img.shields.io/badge/Blender-lightgrey?logo=blender" />
     </td>
     <td align="center">
-      Fly.io
+      <img alt="AWS" src="https://img.shields.io/badge/AWS-lightgrey?logo=amazon" />
     </td>
   </tr>
   
+  
+  <tr>
+    <td align="center">
+      <img alt="CLI" src="https://img.shields.io/badge/CLI-yellowgreen?logo=linux" />
+    </td>
+    <td align="center">
+      <img alt="Three Fiber" src="https://img.shields.io/badge/Three Fiber-yellowgreen?logo=react-three-fiber" />
+    </td>
+    <td align="center">
+      <img alt="fly.io" src="https://img.shields.io/badge/Fly.io-yellowgreen" />
+    </td>
+  </tr>
+  
+ <tr>
+    <td align="center">
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-green?logo=mongodb" />
+    </td>
+    <td align="center">
+      <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-green?logo=postgresql" />
+    </td>
+    <td align="center">
+      <img alt="Mysql" src="https://img.shields.io/badge/Mysql-green?logo=mysql" />
+    </td>
+  </tr>
+        
  </table>
 <div>
   
