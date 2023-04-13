@@ -8,7 +8,7 @@
         <img alt="Cloud Native Developer" src="https://img.shields.io/badge/Cloud Native Developer-blue?style=flat-square" height="70" width="100%"/>
         <img alt="PIAIC" src="https://img.shields.io/badge/Presidential Initiative of Artificial Intelligence and Computing, Pakistan-green?style=flat-square" height="100" width="100%"/>
         <img alt="Mironaut" src="https://img.shields.io/badge/Micronaut-purple?style=flat-square" height="100" width="100%"/>
-        <img alt="Hire" src="https://img.shields.io/badge/Available For Hire-black?style=flat-square" height="100" width="100%"/>
+        <img alt="Hire" src="https://img.shields.io/badge/Open To New Opportunities-black?style=flat-square" height="100" width="100%"/>
 </p>        
       <p align="center">
         <a href="https://github.com/OmarMWarraich?tab=stars">
