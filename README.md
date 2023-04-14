@@ -11,22 +11,22 @@
         <img alt="Hire" src="https://img.shields.io/badge/Open To New Opportunities-black?style=flat-square" height="100" width="100%"/>
 </p>        
       <p align="center">
-        <a href="https://github.com/OmarMWarraich?tab=stars">
+        <a href="#">
           <img alt="GitHub Stars" src="https://img.shields.io/github/stars/OmarMWarraich?logo=github" />
         </a>
-        <a href="https://o-v-a-portfolio.netlify.app">
+        <a href="https://o-v-a-portfolio.netlify.app" target='_blank'>
           <img alt="Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-green" />
         </a>
-        <a href="https://twitter.com/omarwarraich1">
+        <a href="https://twitter.com/omarwarraich1" target='_blank'>
           <img alt="GitHub followers" src="https://img.shields.io/badge/Twitter-blue?logo=twitter" />
         </a>
-        <a href="https://wellfound.com/u/omar-warraich">
+        <a href="https://wellfound.com/u/omar-warraich" target='_blank'>
         <img alt="Angellist followers" src="https://img.shields.io/badge/Wellfound-red?logo=angellist" />
       </a>
-        <a href="https://www.linkedin.com/in/o-va">
+        <a href="https://www.linkedin.com/in/o-va" target='_blank'>
         <img alt="LinkedIn followers" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />     
       </a>
-        <a href="https://github.com/OmarMWarraich?tab=followers">
+        <a href="https://github.com/OmarMWarraich?tab=followers" target='_blank'>
           <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarMWarraich?logo=github" />
         </a>
         <br />
