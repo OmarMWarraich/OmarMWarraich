@@ -84,7 +84,7 @@
   
   <tr>
   <td align="center">
-      <img alt="Rust" src="https://img.shields.io/badge/Rust-blue?logo=rust" />
+      <img alt="React-Native" src="https://img.shields.io/badge/Rust-blue?logo=rust" />
     </td>
     <td align="center">
       <img alt="Mocha, Jest, Chai" src="https://img.shields.io/badge/Mocha, Jest, Chai-blue?logo=jest" />
