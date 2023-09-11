@@ -92,21 +92,7 @@
       <img alt="Figma, XD, Dribble" src="https://img.shields.io/badge/Figma, XD, Dribble-blue?logo=figma" />
     </td>
   </tr>
-  
-  
-  <tr>
-    <td align="center">
-      <img alt="Solidity" src="https://img.shields.io/badge/Solidity-pink?logo=solidity" />
-    </td>
-    <td align="center">
-      <img alt="Truffle" src="https://img.shields.io/badge/Truffle-pink?logo=truffle" />
-    </td>
-    <td align="center">
-      <img alt="Pair Programming" src="https://img.shields.io/badge/Pair Programming-pink?logo=programming" />
-    </td>
-  </tr>
         
-  
   <tr>
    <td align="center">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-bluevilot?logo=javascript" />
@@ -118,46 +104,7 @@
       <img alt="Kanban Boards" src="https://img.shields.io/badge/Kanban Boards-bluevilot?logo=table" />
     </td>
   </tr>
-  
-  
-  <tr>
-    <td align="center">
-      <img alt="C++" src="https://img.shields.io/badge/C++-ff69b4?logo=c" />
-    </td>
-    <td align="center">
-      <img alt="Unity" src="https://img.shields.io/badge/Unity-ff69b4?logo=unity" />
-    </td>
-    <td align="center">
-      <img alt="Azure" src="https://img.shields.io/badge/Azure-ff69b4?logo=microsoft" />
-    </td>
-  </tr>
-  
-  
-  <tr>
-    <td align="center">
-      <img alt="C#" src="https://img.shields.io/badge/C-lightgrey" />
-    </td>
-    <td align="center">
-      <img alt="Blender" src="https://img.shields.io/badge/Blender-lightgrey?logo=blender" />
-    </td>
-    <td align="center">
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-lightgrey?logo=amazon" />
-    </td>
-  </tr>
-  
-  
-  <tr>
-    <td align="center">
-      <img alt="CLI" src="https://img.shields.io/badge/CLI-yellowgreen?logo=linux" />
-    </td>
-    <td align="center">
-      <img alt="Three Fiber" src="https://img.shields.io/badge/Three Fiber-yellowgreen?logo=react-three-fiber" />
-    </td>
-    <td align="center">
-      <img alt="fly.io" src="https://img.shields.io/badge/Fly.io-yellowgreen" />
-    </td>
-  </tr>
-  
+
  <tr>
     <td align="center">
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-green?logo=mongodb" />
