@@ -2,7 +2,7 @@
 
 <p align="center">
         <img alt="Full Stack Software Developer" src="https://img.shields.io/badge/Full Stack Software Developer-yellowgreen?style=flat-square" height="100" width="100%"/>
-        <img alt="Artificial Intelligence Developer" src="https://img.shields.io/badge/Artificial Intelligence Developer-lightgrey?style=flat-square">
+        <img alt="Artificial Intelligence Developer" src="https://img.shields.io/badge/Artificial Intelligence Developer-lightgrey?style=flat-square"/>
         <img alt="Mironaut" src="https://img.shields.io/badge/Micronaut-purple?style=flat-square" height="100" width="100%"/>
         <img alt="Hire" src="https://img.shields.io/badge/Open To New Opportunities-black?style=flat-square" height="100" width="100%"/>
 </p>        
