@@ -2,11 +2,7 @@
 
 <p align="center">
         <img alt="Full Stack Software Developer" src="https://img.shields.io/badge/Full Stack Software Developer-yellowgreen?style=flat-square" height="100" width="100%"/>
-        <img alt="Blockchain Developer" src="https://img.shields.io/badge/Blockchain Developer-red?style=flat-square" height="70" width="100%"/>
-        <img alt="Artificial Intelligence Developer" src="https://img.shields.io/badge/Artificial Intelligence Developer-lightgrey?style=flat-square" height="70" width="100%"/>
-        <img alt="Internet of Things Developer" src="https://img.shields.io/badge/Internet of Things Developer-yellow?style=flat-square" height="70" width="100%"/>
-        <img alt="Cloud Native Developer" src="https://img.shields.io/badge/Cloud Native Developer-blue?style=flat-square" height="70" width="100%"/>
-        <img alt="PIAIC" src="https://img.shields.io/badge/Presidential Initiative of Artificial Intelligence and Computing, Pakistan-green?style=flat-square" height="100" width="100%"/>
+        <img alt="Artificial Intelligence Developer" src="https://img.shields.io/badge/Artificial Intelligence Developer-lightgrey?style=flat-square">
         <img alt="Mironaut" src="https://img.shields.io/badge/Micronaut-purple?style=flat-square" height="100" width="100%"/>
         <img alt="Hire" src="https://img.shields.io/badge/Open To New Opportunities-black?style=flat-square" height="100" width="100%"/>
 </p>        
