@@ -132,10 +132,6 @@
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMWarraich&theme=dark&show_icons=true&hide_border=false&layout=compact" width="100%" height="100%" style="position:absolute"></img>
 </div>
 
-<div align="center" style="width:60%;height:0;padding-bottom:100%;position:relative;"><img src="./assets/contributions.png" width="100%" height="100%" style="position:absolute"></img>
-</div>
-
-<div align="center" style="width:60%;height:0;padding-bottom:100%;position:relative;"><img src="./assets/canvas.png" width="100%" height="100%" style="position:absolute"></img>
 </div>
 
 
