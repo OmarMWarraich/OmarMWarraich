@@ -11,7 +11,7 @@
         <a href="#">
           <img alt="GitHub Stars" src="https://img.shields.io/github/stars/OmarMWarraich?logo=github" />
         </a>
-        <a href="https://o-v-a-portfolio.netlify.app" target='_blank'>
+        <a href="https://ova-portfolio.vercel.app" target='_blank'>
           <img alt="Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-green" />
         </a>
         <a href="https://twitter.com/omarwarraich1" target='_blank'>
