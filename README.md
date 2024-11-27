@@ -41,7 +41,7 @@ Check out my blog at [Omar's Portfolio](https://ova-portfolio.vercel.app) for in
 
 ## Connect with Me
 
-{"twitter":"https://twitter.com/omarwarraich1"}
+[**Twitter**](https://twitter.com/omarwarraich1)
 
 ## ASCII Art
 
