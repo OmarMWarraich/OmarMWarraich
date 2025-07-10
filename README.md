@@ -14,7 +14,6 @@ Based in **Rawalpindi, Pakistan**, I specialize in creating dynamic web applicat
 
 Here are some of my most notable projects:
 
-- [**Uniswap Clone**](https://github.com/OmarMWarraich/uniswap_clone) - Experience the power of decentralized finance. **⭐ 8** | **Language:** JavaScript | **Forks:** 6 | **Open Issues:** 5
 - [**Next Finance SASS**](https://github.com/OmarMWarraich/next-finance-sass) - A finance management tool built with Next.js. **⭐ 0** | **Language:** TypeScript | **Open Issues:** 1
 - [**Next AI Lead Magnet**](https://github.com/OmarMWarraich/next-ai-lead-magnet) - An AI-powered lead generation application. **⭐ 0** | **Language:** TypeScript | **Open Issues:** 1
 - [**Chronicles**](https://github.com/OmarMWarraich/chronicles) - A blogging platform for users to share their thoughts. **⭐ 3** | **Language:** Ruby | **Open Issues:** 2
