@@ -32,7 +32,6 @@
 
 ![OmarMWarraich's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarMWarraich&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMWarraich&layout=compact&theme=radical)
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=OmarMWarraich&theme=github-compact)
 
 ---
 
