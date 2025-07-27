@@ -3,7 +3,7 @@
 ![Profile Banner](assets/contributions.png)
 
 [![GitHub Followers](https://img.shields.io/github/followers/OmarMWarraich?label=Follow&style=social)](https://github.com/OmarMWarraich)
-[![Twitter Follow](https://img.shields.io/twitter/follow/omarwarraich1?style=social)](https://twitter.com/omarwarraich1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/omarwarraich1?style=social)](https://x.com/omarwarraich1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/o-va)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://ova-portfolio.vercel.app)
 
@@ -49,7 +49,7 @@
 
 - [Crypto Tracker](https://cryptotracker-ova.netlify.app/) — Mobile app for cryptocurrency stats and UI graphs
 - [LibraryApp](https://friendly-rolypoly-6c77e8.netlify.app) — Book reservation app (React, Redux, Rails, PostgreSQL)
-- [Landon Hotel](https://main.d2e4zypnjcy2vm.amplifyapp.com/) — Hotel details app (React, AWS, DynamoDB)
+- [NFT Marketplace](https://next15-nft-marketplace.vercel.app/) — NFT Marketplace (Create, Buy and Sell)
 - Next Finance SASS, Next AI Lead Magnet, Chronicles, Space Travelers Hub, the_blog, Idea_App, ror-react-app (see GitHub for more)
 
 ---
