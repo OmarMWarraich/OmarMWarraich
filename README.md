@@ -8,8 +8,6 @@ Based in **Rawalpindi, Pakistan**, I specialize in creating dynamic web applicat
 
 ## Skills & Technologies
 
-
-
 ## Top Projects
 
 Here are some of my most notable projects:
@@ -28,10 +26,10 @@ Here are some of my most notable projects:
 
 ## Recent Activity
 
-- **November 26, 2024**: Pushed updates to [next-finance-sass](https://github.com/OmarMWarraich/next-finance-sass)  
-- **November 25, 2024**: Added OpenAI route to [next-ai-lead-magnet](https://github.com/OmarMWarraich/next-ai-lead-magnet)  
-- **November 24, 2024**: Fixed issues in [next-ai-lead-magnet](https://github.com/OmarMWarraich/next-ai-lead-magnet)  
-- **November 22, 2024**: Committed changes to [next-rag-chatbot](https://github.com/OmarMWarraich/next-rag-chatbot)  
+- **November 26, 2024**: Pushed updates to [next-finance-sass](https://github.com/OmarMWarraich/next-finance-sass)
+- **November 25, 2024**: Added OpenAI route to [next-ai-lead-magnet](https://github.com/OmarMWarraich/next-ai-lead-magnet)
+- **November 24, 2024**: Fixed issues in [next-ai-lead-magnet](https://github.com/OmarMWarraich/next-ai-lead-magnet)
+- **November 22, 2024**: Committed changes to [next-rag-chatbot](https://github.com/OmarMWarraich/next-rag-chatbot)
 - **November 19, 2024**: Created [next-ai-lead-magnet](https://github.com/OmarMWarraich/next-ai-lead-magnet)
 
 ## Latest Blog Posts
@@ -45,12 +43,12 @@ Check out my blog at [Omar's Portfolio](https://ova-portfolio.vercel.app) for in
 ## ASCII Art
 
 ```
-                                                                   _      _     
-   ___  _ __ ___   __ _ _ __ _ __ _____      ____ _ _ __ _ __ __ _(_) ___| |__  
-  / _ \| '_ ` _ \ / _` | '__| '_ ` _ \ \ /\ / / _` | '__| '__/ _` | |/ __| '_ \ 
+                                                                   _      _
+   ___  _ __ ___   __ _ _ __ _ __ _____      ____ _ _ __ _ __ __ _(_) ___| |__
+  / _ \| '_ ` _ \ / _` | '__| '_ ` _ \ \ /\ / / _` | '__| '__/ _` | |/ __| '_ \
  | (_) | | | | | | (_| | |  | | | | | \ V  V / (_| | |  | | | (_| | | (__| | | |
   \___/|_| |_| |_|\__,_|_|  |_| |_| |_|\_/\_/ \__,_|_|  |_|  \__,_|_|\___|_| |_|
-                                                                                
+
 ```
 
 ## Publications
