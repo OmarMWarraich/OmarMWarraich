@@ -1,60 +1,90 @@
-## Hi there! 👋
+# 👋 Hi, I'm Omar Mohammad Warraich!
 
-I'm **Omar Warraich**, a passionate Computer Scientist certified in Blockchain & Full-Stack Development. I love building innovative solutions that make a difference!
+![Profile Banner](assets/contributions.png)
 
-## About Me
+[![GitHub Followers](https://img.shields.io/github/followers/OmarMWarraich?label=Follow&style=social)](https://github.com/OmarMWarraich)
+[![Twitter Follow](https://img.shields.io/twitter/follow/omarwarraich1?style=social)](https://twitter.com/omarwarraich1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/o-va)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://ova-portfolio.vercel.app)
 
-Based in **Rawalpindi, Pakistan**, I specialize in creating dynamic web applications. I have a keen interest in blockchain technology and am continuously exploring new ways to integrate it into projects. Feel free to reach out via email at [omarwarraich@hotmail.com](mailto:omarwarraich@hotmail.com).
+---
 
-## Skills & Technologies
+## 🧑‍💻 About Me
 
-## Top Projects
+- 🌍 Location: Rawalpindi, Pakistan, AI-Blockchain Engineer, Company Owner
+- 🏢 Company/Organization: Top Gear Technologies LLC, Freelance
+- 🎓 Education: BSc Computer Science (University of London, in progress), Microverse, PIAIC, Bahria University
+- 🏆 Achievements: 480+ GitHub repositories, Arctic Code Vault Contributor, Pull Shark, Multiple Blockchain & Cloud Certifications
 
-Here are some of my most notable projects:
+---
 
-- [**Next Finance SASS**](https://github.com/OmarMWarraich/next-finance-sass) - A finance management tool built with Next.js. **⭐ 0** | **Language:** TypeScript | **Open Issues:** 1
-- [**Next AI Lead Magnet**](https://github.com/OmarMWarraich/next-ai-lead-magnet) - An AI-powered lead generation application. **⭐ 0** | **Language:** TypeScript | **Open Issues:** 1
-- [**Chronicles**](https://github.com/OmarMWarraich/chronicles) - A blogging platform for users to share their thoughts. **⭐ 3** | **Language:** Ruby | **Open Issues:** 2
-- [**Space Travelers Hub**](https://github.com/OmarMWarraich/Space-Travelers-Hub) - A React-Redux app for fetching and rendering data. **⭐ 3** | **Language:** JavaScript | **Open Issues:** 9
+## 🚀 Tech Stack
 
-## GitHub Stats
+- **Languages:** TypeScript, JavaScript, Ruby, Python, Go, Rust, C/C++, Java, HTML, CSS, SCSS, Shell, SQL
+- **Frameworks:** React, Next.js, Node.js (Express, NestJS), Ruby on Rails, Flask, FastAPI, Go (Gin, Echo), Rust (Rocket, Actix), Java (Spring Boot)
+- **Databases:** PostgreSQL, MongoDB, MySQL, SQLite3, Redis, DynamoDB
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda, Amplify, Route 53), Docker, Kubernetes, Heroku, Netlify, Vercel, Fly.io, CI/CD pipelines
+- **Tools & Integrations:** Stripe, CarrierWave, Web3.js, Ethers.js, OpenAI API, HuggingFace, Sentry, Datadog, RSpec, Capybara, Jest, React Testing Library, Mocha, PyTest, Selenium
 
-🌟 **Public Repositories:** 396  
-👥 **Followers:** 105  
-👤 **Following:** 274  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarMWarraich&show_icons=true&hide_title=true&count_private=true&hide_rank=true&theme=radical)
+---
 
-## Recent Activity
+## 📈 GitHub Stats
 
-- **November 26, 2024**: Pushed updates to [next-finance-sass](https://github.com/OmarMWarraich/next-finance-sass)
-- **November 25, 2024**: Added OpenAI route to [next-ai-lead-magnet](https://github.com/OmarMWarraich/next-ai-lead-magnet)
-- **November 24, 2024**: Fixed issues in [next-ai-lead-magnet](https://github.com/OmarMWarraich/next-ai-lead-magnet)
-- **November 22, 2024**: Committed changes to [next-rag-chatbot](https://github.com/OmarMWarraich/next-rag-chatbot)
-- **November 19, 2024**: Created [next-ai-lead-magnet](https://github.com/OmarMWarraich/next-ai-lead-magnet)
+![OmarMWarraich's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarMWarraich&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMWarraich&layout=compact&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=OmarMWarraich&theme=github-compact)
 
-## Latest Blog Posts
+---
 
-Check out my blog at [Omar's Portfolio](https://ova-portfolio.vercel.app) for insights on development and blockchain technology.
+## 🏆 Achievements
 
-## Connect with Me
+- 🥇 Arctic Code Vault Contributor
+- 🏆 Pull Shark
+- 🎖️ 480+ GitHub repositories
+- 📝 1000+ commits this year
+- 📜 Certified Blockchain Business Foundations, Solution Architect, Ethereum Developer, AI/ML, Cloud Native, Data Science
 
-[**Twitter**](https://twitter.com/omarwarraich1)
+---
 
-## ASCII Art
+## 🌟 Featured Projects
 
-```
-                                                                   _      _
-   ___  _ __ ___   __ _ _ __ _ __ _____      ____ _ _ __ _ __ __ _(_) ___| |__
-  / _ \| '_ ` _ \ / _` | '__| '_ ` _ \ \ /\ / / _` | '__| '__/ _` | |/ __| '_ \
- | (_) | | | | | | (_| | |  | | | | | \ V  V / (_| | |  | | | (_| | | (__| | | |
-  \___/|_| |_| |_|\__,_|_|  |_| |_| |_|\_/\_/ \__,_|_|  |_|  \__,_|_|\___|_| |_|
+- [Crypto Tracker](https://cryptotracker-ova.netlify.app/) — Mobile app for cryptocurrency stats and UI graphs
+- [LibraryApp](https://friendly-rolypoly-6c77e8.netlify.app) — Book reservation app (React, Redux, Rails, PostgreSQL)
+- [Landon Hotel](https://main.d2e4zypnjcy2vm.amplifyapp.com/) — Hotel details app (React, AWS, DynamoDB)
+- Next Finance SASS, Next AI Lead Magnet, Chronicles, Space Travelers Hub, the_blog, Idea_App, ror-react-app (see GitHub for more)
 
-```
+---
 
-## Publications
+## 📚 Blog & Publications
 
-- [Publication Title](link-to-publication) - Journal/Conference, Year
+- [Rails7 Devise API Authentication](https://medium.com/@omarmohammad_89249/rails7-devise-api-authentication-with-vue-js-2fcbab3e3fb8) — Guide for Rails API with JWT
+- [Medium Profile](https://medium.com/@omarmohammad_89249) — 10+ published articles, 50+ bookmarks, 50+ claps
 
-## Certifications
+---
 
-- [Certification Name](link-to-certificate) - Issuing organization, Year
+## 🤝 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/o-va)
+- 🐦 [Twitter](https://x.com/omarwarraich1)
+- 🌐 [Portfolio](https://ova-portfolio.vercel.app)
+- 📧 Email: omarwarraich@hotmail.com
+
+---
+
+## 💬 Fun Facts
+
+- 🧩 Hobbies: Chess, hiking, photography
+- 🌱 Currently learning: AI/ML, Rust, Blockchain
+- 💬 Ask me about: Open source, web development, cloud, blockchain, AI/ML
+
+---
+
+## 🙏 Acknowledgements
+
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+
+---
+
+_This README was generated by synthesizing information from Omar Warraich’s GitHub, LinkedIn, Medium, and technical summaries, following best practices from top GitHub profile READMEs._
