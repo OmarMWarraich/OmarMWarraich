@@ -47,8 +47,8 @@
 
 ## 🌟 Featured Projects
 
-- [Crypto Tracker](https://cryptotracker-ova.netlify.app/) — Mobile app for cryptocurrency stats and UI graphs
-- [LibraryApp](https://friendly-rolypoly-6c77e8.netlify.app) — Book reservation app (React, Redux, Rails, PostgreSQL)
+- [Defi-Analytica](https://advanced-analytics.vercel.app/) — Advanced Analytics is a crypto intelligence platform designed for operators, researchers, and builders who need signal instead of noise. It turns fragmented onchain, market, and sentiment data into one fast, visual, API-first experience so you can track regime shifts, monitor flows.
+- [Mindmap](https://mindmap-ten-hazel.vercel.app/) — Mindmap is a learning-first study app for turning course content into structured mindmaps while the user types. The main idea is that writing notes should also teach: the editor should suggest relevant next concepts, missing subtopics, clarifying facts, and useful follow-up ideas that stay tightly aligned with the current topic.
 - [NFT Marketplace](https://next15-nft-marketplace.vercel.app/) — NFT Marketplace (Create, Buy and Sell)
 - Next Finance SASS, Next AI Lead Magnet, Chronicles, Space Travelers Hub, the_blog, Idea_App, ror-react-app (see GitHub for more)
 
