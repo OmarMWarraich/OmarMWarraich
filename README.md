@@ -66,7 +66,6 @@
 - 💼 [LinkedIn](https://linkedin.com/in/o-va)
 - 🐦 [Twitter](https://x.com/omarwarraich1)
 - 🌐 [Portfolio](https://ova-portfolio.vercel.app)
-- 📧 Email: omarwarraich@hotmail.com
 
 ---
 
