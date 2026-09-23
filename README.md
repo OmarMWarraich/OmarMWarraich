@@ -11,10 +11,6 @@ I build production-minded web applications, AI-powered tools, developer platform
   <a href="https://ova-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A7B5B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-[![Profile Banner](assets/contributions.png)](https://github.com/OmarMWarraich)
-
----
-
 ## 🧭 What I Do
 
 - **Product engineering:** Design and ship full-stack applications from idea to deployment.
@@ -80,11 +76,20 @@ I build production-minded web applications, AI-powered tools, developer platform
   <img src="https://streak-stats.demolab.com?user=OmarMWarraich&hide_border=true&theme=transparent" alt="Omar's GitHub contribution streak" width="70%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarMWarraich&bg_color=ffffff00&color=6e7781&line=0969da&point=1f6feb&area=true&hide_border=true" alt="Omar's contribution activity graph" width="95%" />
-</p>
-
 ---
+
+## Contributions
+
+I actively contribute to open-source projects and maintain repositories across web development, cloud infrastructure, AI/ML, and blockchain technology. My profile highlights my pinned projects, achievements, and contribution activity across GitHub.
+
+- **Pinned projects:** Featured repositories showcase selected work in AI, developer tooling, full-stack engineering, and Web3.
+- **Contribution activity:** The graph and activity timeline reflect commits, pull requests, issues, and other public contributions over the past year.
+- **Achievements:** GitHub achievements recognize milestones such as open-source collaboration and repository activity.
+- **Private contributions:** Private activity may appear anonymously when enabled in GitHub profile settings.
+
+See my [GitHub profile](https://github.com/OmarMWarraich) for the latest pinned repositories, contribution graph, and activity overview.
+
+
 
 ## 🏅 Highlights
 
