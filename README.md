@@ -73,10 +73,11 @@ I build production-minded web applications, AI-powered tools, developer platform
   <img src="https://github-readme-stats.vercel.app/api?username=OmarMWarraich&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Omar's GitHub statistics" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMWarraich&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Omar's most used languages" width="41%" />
 </div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=OmarMWarraich&hide_border=true&theme=transparent" alt="Omar's GitHub contribution streak" width="70%" />
-</div> -->
+</div>
 
 ---
 
