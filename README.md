@@ -67,7 +67,7 @@ I build production-minded web applications, AI-powered tools, developer platform
 
 ## 📊 GitHub Activity
 
-<!-- TODO: Create Github statistics live api and integrate accordingly -->
+<!-- TODO: Create Github statistics live  api call from github workflow every day and integrate accordingly -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarMWarraich&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Omar's GitHub statistics" width="49%" />
